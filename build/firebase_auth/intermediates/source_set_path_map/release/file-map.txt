@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-0 C:\Users\masge\.gradle\caches\transforms-3\1768ad6907db91025c9ba021bd86386c\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-1 C:\Users\masge\.gradle\caches\transforms-3\29d54fd376b6ad40144414df0e50ec29\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-2 C:\Users\masge\.gradle\caches\transforms-3\6d29557f56adca75486df007f71c917e\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-3 C:\Users\masge\.gradle\caches\transforms-3\8ac48c96d4ad9418baaa7a3b149a0b3e\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-4 C:\Users\masge\.gradle\caches\transforms-3\b4cc073ce8f4c8dc69598f57d7acc8d8\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-5 C:\Users\masge\.gradle\caches\transforms-3\bf9232cb840b53cbc9508ab200ed7244\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-6 C:\Users\masge\.gradle\caches\transforms-3\d47ce85368fc56d575b8562826fe6445\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-7 C:\Users\masge\.gradle\caches\transforms-3\f185135216be068760be73bc092ade48\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\masge\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.13.0\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 C:\Users\masge\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.13.0\android\src\release\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 C:\Users\masge\Downloads\ironman\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 C:\Users\masge\Downloads\ironman\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-12 C:\Users\masge\Downloads\ironman\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 C:\Users\masge\Downloads\ironman\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-14 C:\Users\masge\Downloads\ironman\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-15 C:\Users\masge\Downloads\ironman\build\firebase_core\intermediates\packaged_res\release

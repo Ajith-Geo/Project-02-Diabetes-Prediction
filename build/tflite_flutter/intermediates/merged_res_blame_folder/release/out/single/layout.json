@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-9:/layout/custom_dialog.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-9:/layout/notification_template_part_chronometer.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "org.tensorflow.tflite_flutter-merged_res-9:/layout/notification_template_part_time.xml",
+        "source": "org.tensorflow.tflite_flutter-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    }
+]

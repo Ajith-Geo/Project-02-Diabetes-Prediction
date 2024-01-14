@@ -1,0 +1,1 @@
+ C:\\Users\\masge\\Downloads\\ironman\\.dart_tool\\flutter_build\\e42d40b60fee47c736311dc73467c640\\native_assets.yaml: 
