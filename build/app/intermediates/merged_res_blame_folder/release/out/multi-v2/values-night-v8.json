@@ -4,7 +4,7 @@
             "outputFile": "com.example.ironman.app-mergeReleaseResources-12:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\masge\\Downloads\\ironman\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\masge\\Downloads\\Project-02-Diabetes-Prediction\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

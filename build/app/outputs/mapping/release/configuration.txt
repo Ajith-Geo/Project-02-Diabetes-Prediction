@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is C:\Users\masge\Downloads\ironman\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.1.3
+# The proguard configuration file for the following section is C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.1.3
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,7 +116,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from C:\Users\masge\Downloads\ironman\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.1.3
+# End of content from C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.1.3
 # The proguard configuration file for the following section is C:\dev\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -127,7 +127,7 @@
 -dontwarn android.**
 
 # End of content from C:\dev\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
-# The proguard configuration file for the following section is C:\Users\masge\Downloads\ironman\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.multidex.MultiDexApplication { <init>(); }
 -keep class com.example.ironman.MainActivity { <init>(); }
@@ -139,7 +139,7 @@
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from C:\Users\masge\Downloads\ironman\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# End of content from C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 # The proguard configuration file for the following section is C:\Users\masge\.gradle\caches\transforms-3\5a4cdc47d566de2e99307df6074dbf6a\transformed\jetified-firebase-auth-22.3.0\proguard.txt
 -dontwarn com.google.appengine.api.**
 -dontwarn okio.**

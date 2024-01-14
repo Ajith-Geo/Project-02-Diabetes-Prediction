@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\Users\masge\Downloads\ironman\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\Users\masge\Downloads\ironman\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\Users\masge\Downloads\ironman\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\Users\masge\Downloads\ironman\android@@:firebase_auth::release"
-      jars="C:\Users\masge\Downloads\ironman\build\firebase_auth\.transforms\24c070bed0b3b3ac2b993b784088204d\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\ironman\build\firebase_auth\.transforms\24c070bed0b3b3ac2b993b784088204d\transformed\out\jars\libs\R.jar"
+      name="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\android@@:firebase_auth::release"
+      jars="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_auth\.transforms\1b92ca23897790d947e1e7779d5f0d65\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_auth\.transforms\1b92ca23897790d947e1e7779d5f0d65\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.auth:firebase_auth:unspecified"
-      folder="C:\Users\masge\Downloads\ironman\build\firebase_auth\.transforms\24c070bed0b3b3ac2b993b784088204d\transformed\out"
+      folder="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_auth\.transforms\1b92ca23897790d947e1e7779d5f0d65\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\masge\Downloads\ironman\android@@:cloud_firestore::release"
-      jars="C:\Users\masge\Downloads\ironman\build\cloud_firestore\.transforms\b6467b25f824b83508fda8fdd4fff367\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\ironman\build\cloud_firestore\.transforms\b6467b25f824b83508fda8fdd4fff367\transformed\out\jars\libs\R.jar"
+      name="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\android@@:cloud_firestore::release"
+      jars="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\cloud_firestore\.transforms\152f8ed800ab1e246bfe913a021f0f6e\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\cloud_firestore\.transforms\152f8ed800ab1e246bfe913a021f0f6e\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.cloudfirestore:cloud_firestore:unspecified"
-      folder="C:\Users\masge\Downloads\ironman\build\cloud_firestore\.transforms\b6467b25f824b83508fda8fdd4fff367\transformed\out"
+      folder="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\cloud_firestore\.transforms\152f8ed800ab1e246bfe913a021f0f6e\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\masge\Downloads\ironman\android@@:firebase_core::release"
-      jars="C:\Users\masge\Downloads\ironman\build\firebase_core\.transforms\9800849ed05286d441f876d5c03c0f22\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\ironman\build\firebase_core\.transforms\9800849ed05286d441f876d5c03c0f22\transformed\out\jars\libs\R.jar"
+      name="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\android@@:firebase_core::release"
+      jars="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_core\.transforms\c35ddb6acca97d9d6a312fe6d799d196\transformed\out\jars\classes.jar;C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_core\.transforms\c35ddb6acca97d9d6a312fe6d799d196\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
-      folder="C:\Users\masge\Downloads\ironman\build\firebase_core\.transforms\9800849ed05286d441f876d5c03c0f22\transformed\out"
+      folder="C:\Users\masge\Downloads\Project-02-Diabetes-Prediction\build\firebase_core\.transforms\c35ddb6acca97d9d6a312fe6d799d196\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,9 +43,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49@jar"
-      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49\1cda5084e256ef9070e38a93a384bbefc72f6f2\flutter_embedding_release-1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"/>
+      name="io.flutter:flutter_embedding_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406@jar"
+      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406\ea6d6581705d94fc8653db3d33f73222acbb0e58\flutter_embedding_release-1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406"/>
   <library
       name="androidx.window:window-java:1.0.0-beta04@aar"
       jars="C:\Users\masge\.gradle\caches\transforms-3\d47ce85368fc56d575b8562826fe6445\transformed\jetified-window-java-1.0.0-beta04\jars\classes.jar"
@@ -98,17 +98,17 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49@jar"
-      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49\203099abe4540435bf4b29ea09cf7211f88bf321\armeabi_v7a_release-1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406@jar"
+      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406\62ca5a9a50991486651e7e2e540b52ba7545afd5\armeabi_v7a_release-1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49@jar"
-      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49\9748645ba5bc83e984446abea24c3d021500cbbb\arm64_v8a_release-1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406@jar"
+      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406\f2be60ab538995ca2e9e564c5a70ad3b033727c7\arm64_v8a_release-1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49@jar"
-      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49\3621846fbce92adde5a26454bb00867f46aff78b\x86_64_release-1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49"/>
+      name="io.flutter:x86_64_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406@jar"
+      jars="C:\Users\masge\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406\7da54bcf08c5d86c784d8e1eec94578481af1cdc\x86_64_release-1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-4a585b79294e830fa89c24924d58a27cc8fbf406"/>
   <library
       name="androidx.fragment:fragment:1.1.0@aar"
       jars="C:\Users\masge\.gradle\caches\transforms-3\7e90bdb9f2d95d6a8cbf339d66d87c21\transformed\fragment-1.1.0\jars\classes.jar"
