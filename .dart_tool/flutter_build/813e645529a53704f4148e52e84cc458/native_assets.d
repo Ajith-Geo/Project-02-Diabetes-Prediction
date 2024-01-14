@@ -1,0 +1,1 @@
+ C:\\Users\\masge\\Downloads\\Project-02-Diabetes-Prediction\\.dart_tool\\flutter_build\\813e645529a53704f4148e52e84cc458\\native_assets.yaml: 

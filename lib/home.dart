@@ -132,7 +132,8 @@ class _DiabetesPredictionPageState extends State<DiabetesPredictionPage> {
       return;
     }
 
-    const url = 'https://mlmodel124.el.r.appspot.com/predict_diabetes';
+    const url = 'https://diapred.onrender.com/predict_diabetes';
+    // const url = 'https://mlmodel124.el.r.appspot.com/predict_diabetes';
     // const url = 'http://ec2-100-24-66-203.compute-1.amazonaws.com:5000/predict_diabetes';
     final response = await http.post(
       Uri.parse(url),
